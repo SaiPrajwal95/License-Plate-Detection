@@ -13,3 +13,5 @@ This repository hosts the code for license plate detection. CNN based bounding b
 - Finally, run test-classifier.py to test the network on new images.
 
 ### Sample results
+![Sample prediction 1] (https://github.com/SaiPrajwal95/License-Plate-Detection/blob/master/Results/Sample_Prediction.png)
+![Sample prediction 2] (https://github.com/SaiPrajwal95/License-Plate-Detection/blob/master/Results/Sample_Prediction_2.png)
